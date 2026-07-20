@@ -17,10 +17,10 @@ Two phases of the project have been funded until now:
 
 - *OpenITI AOCP Phase 1* (2019-2021): The primary technical goal of the first phase of *OpenITI AOCP* was 
   to achieve ≥97% character accuracy rates (CARs) for OCR on the most used Persian and Arabic print typefaces. 
-  [Read more](projects/OpenITI%20AOCP%20Phase%20One.html)
+  [Read more](OpenITI%20AOCP%20Phase%20One.html)
 - *OpenITI AOCP Phase 2* (2022-2025): The aims of the second phase of *OpenITI AOCP* include 
   expanding the size of OpenITI’s Persian and Arabic corpus through large-scale OCR work in Persian and Arabic; 
   extending the linguistic capabilities of OpenITI’s OCR tools into Ottoman Turkish and Urdu; 
   and transforming its open-source optical character recognition (OCR)/handwritten text recognition (HTR) pipeline 
   by incorporating newly developed unsupervised machine learning tools into its workflow. 
-  [Read more](projects/OpenITI%20AOCP%20Phase%20Two.html)
+  [Read more](OpenITI%20AOCP%20Phase%20Two.html)
